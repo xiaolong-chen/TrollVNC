@@ -673,3 +673,5 @@ If you prefer, you can always build TrollVNC yourself directly from the source.
 - Pay for convenience, updates, and support.
 
 Support TrollVNC and help us keep remote access fast, secure, and evolving.
+
+...
